@@ -1,3 +1,10 @@
+hello (2.10-2ubuntu3) eoan; urgency=low
+
+  * Added a testing.sh which will print the message "this is
+    a test from WeiMing Chen" after package is installed.
+
+ -- Author: WeiMing Chen <wmchen.aristo@gmail.com>
+
 hello (2.10-2ubuntu2) eoan; urgency=medium
 
   * Handle exit code 77 for skipped autopkgtests.
