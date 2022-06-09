@@ -1,9 +1,9 @@
-hello (2.10-2ubuntu3) eoan; urgency=low
+hello (2.10-2ubuntu3) focal; urgency=low
 
   * Added a testing.sh which will print the message "this is
-    a test from WeiMing Chen" after package is installed.
+    a test from WeiMing Chen" after package is unpacked.
 
- -- Author: WeiMing Chen <wmchen.aristo@gmail.com>
+ -- WeiMing Chen <wmchen.aristo@gmail.com>  Thu, 09 Jun 2022 14:43:12 +0800
 
 hello (2.10-2ubuntu2) eoan; urgency=medium
 
